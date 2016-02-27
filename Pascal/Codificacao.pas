@@ -1,6 +1,8 @@
 program Codificacao;
 uses crt;
 
+// Desenvolvido por Cristian Henrique (cristianmsbr@gmail.com)
+
 var
    mensagem : string;
    n, i, tamanho : integer;
