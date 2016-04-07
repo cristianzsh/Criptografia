@@ -1,0 +1,6 @@
+imprima "Digite a mensagem > "
+mensagem = leia_texto
+imprima "Digite o valor da cifra > "
+cifra = leia_inteiro
+
+escreva mensagem.mapeie(c => (c + cifra).caractere)
