@@ -8,7 +8,7 @@ Algoritmo de criptografia que utiliza o princípio da Cifra de César
 ![Python](http://i.imgur.com/OY31GeM.png)
 
 # Execução com Java
-![Java](http://i.imgur.com/3SyKT34.png)
+![Java](http://i.imgur.com/qnTDUAK.png)
 
 # Execução com CSharp
 ![CSharp](http://i.imgur.com/EQNWJqs.png)
