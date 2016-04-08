@@ -9,3 +9,6 @@ Algoritmo de criptografia que utiliza o princípio da Cifra de César
 
 # Execução com CSharp
 ![CSharp](http://i.imgur.com/EQNWJqs.png)
+
+# Execução com Potigol
+![Potigol](http://i.imgur.com/4hfrfj2.png)
